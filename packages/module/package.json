@@ -2,7 +2,6 @@
   "name": "my-test-package-js",
   "version": "3.0.1",
   "description": "Re usable components",
-  "private": true,
   "devDependencies": {
     "lerna": "^3.16.4"
   },
