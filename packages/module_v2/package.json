@@ -1,0 +1,12 @@
+{
+  "name": "my-test-package-js",
+  "version": "2.0.0",
+  "description": "Re usable components",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "repository": {
+    "url": "https://github.com/mpvineesh/lerna-demo/tree/master/packages/module_v2"
+  }
+}
