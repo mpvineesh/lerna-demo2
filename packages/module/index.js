@@ -1,1 +1,2 @@
-let version = '1.0.1';
+let package = 'Version 3';
+let version = '3.0.1';
