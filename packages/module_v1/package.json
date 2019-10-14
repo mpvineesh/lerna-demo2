@@ -1,6 +1,6 @@
 {
   "name": "my-test-package-js",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Re usable components",
   "devDependencies": {
     "lerna": "^3.16.4"
